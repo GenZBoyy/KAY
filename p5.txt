@@ -1,0 +1,25 @@
+<html>
+<head>
+ <title>Mobile World</title>
+</head>
+<body>
+ <h1>Welcome to Mobile World!</h1>
+ <table border="1" cellspacing="0" cellpadding="60">
+ <tr>
+ <th>Mobile</th>
+ <th>Price</th>
+ <th>Image</th>
+ </tr>
+ <tr>
+ <td>iPhone 13</td>
+ <td>$999</td>
+ <td><img src="iphone13.jpg" height=100px></td>
+ </tr>
+ <tr>
+ <td>samsung Galaxy S21</td>
+ <td>$899</td>
+ <td><img src="samsungs21.jpg" height=100px></td>
+ </tr>
+ </table>
+</body>
+</html>

@@ -1,0 +1,29 @@
+<head>
+ <title>Customer Details</title>
+</head>
+<body>
+ <h1>Customer Details</h1>
+<form action="/submit" method="post">
+ First Name:
+ <input type="text" id="firstName" name="firstName" required><br><br>
+Last Name:
+ <input type="text" id="lastName" name="lastName" required><br><br>
+Email:
+ <input type="email" id="email" name="email" required><br><br>
+Phone:
+ <input type="tel" id="phone" name="phone" required><br><br>
+Address:
+ <textarea id="address" name="address" rows="4" cols="50" required></textarea><br><br>
+Date of Birth:
+ <input type="date" id="birthdate" name="birthdate" required><br><br>
+Gender:
+ <input type="radio" id="male" name="gender" value="male">
+ Male
+ <input type="radio" id="female" name="gender" value="female">
+ Female
+ <input type="radio" id="other" name="gender" value="other">
+ Other<Br><br>
+ <input type="submit" value="Submit">
+ </form>
+</body>
+</html>

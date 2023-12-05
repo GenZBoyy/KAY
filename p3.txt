@@ -1,0 +1,27 @@
+<html>
+<head><title>Plan</title></head>
+<body bgcolor=ORANGE link=black vlink=blue>
+<font color=maroon>
+<h2 align=center>National e-Governance Plan</h2></font>
+<hr>
+<font color=green>
+<img src="images.jpg" height=160 width=200 align=right>
+The National E-governance Plan of Indian goverment seeks to lay foundation and provide the
+impetus for long term growth of e-governance
+within the country.The plan seeks to create the right governance and institutional mechanisms,set up
+core infrastructure and policies and
+implement a number of Mission Mode Projects at the center,state and integrated service levels to
+create a citizen-centric and business-centric enviorment for governance.</font>
+<p>
+<font size=2>
+<b>visit<a href="egovernance.com">National E-Governance Plan</a>to know more about:</b>
+<ol>
+<li>central MMP'S
+<li>Implementaion
+<li>components
+</ol>
+<hr>
+<font size=2>
+<center>For enquiries <a href="pqr@gmail.com">Mail to us</a></center>
+</body>
+</html>

@@ -1,0 +1,47 @@
+<html>
+<head><title>New page 1</title></head>
+<body>
+<table border=2 cellpaddig=3 cellspacing=5 width=100%>
+<tr>
+<td colspan=2>
+<h2>Our company grows all plants to keep down the cost to the customer.</h2>
+<P>&nbsp;</td>
+</tr>
+<tr>
+<td widt=24%>&nbsp;<p>plants for all soil types:</p>
+<ul>
+<li>acid
+<li>alkaine
+<li><neutral,
+</ul>
+<p>and for all eviroment:</p>
+<ul>
+<li>deciduous
+<li>coniferous
+<li>evergreen
+</ul>
+</td>
+<td rowspan=2 width=75%>
+<img src="tree.jpg" height=250px;>
+</td></tr>
+<tr>
+<td width=24% height=77><h2>You can contact us in many ways.</h2></td>
+</tr>
+<tr>
+<td colspan=2>
+<h3> Through our website on-line - use our orrder form. By post - order our catalogue and complete the order form.by
+phone or fax- all contact details on this website.you can order our catalogue for a full listing of our services.</h3>
+</td>
+</tr>
+</table>
+<table border=o width=100%>
+<tr>
+<td colspan=2>
+<h2>home page</h2>
+<h2><a href=SPECIMEN2.HTM>Try Bonsai </a></h2>
+<h2 align=right>Order Form</h2>
+</td>
+</tr>
+</table>
+</body>
+</html>

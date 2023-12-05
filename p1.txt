@@ -1,0 +1,35 @@
+<HTML>
+ <head> <title>Using Lists</title></head>
+ <body bgcolor=blue text=white>
+ <h1 align=center> HTML Tags</h1>
+ <hr color=orange width=70% size=5>
+ <h2> Structural Tags</h2>
+ <ol>
+ <li>HTML<li>HEAD<li>TITLE
+ <li>BODY<ul><li>text<li>bgcolor
+ <li>Background<li>link
+ <li>alink<li>vlink<li>leftmargin
+ <li>top margin
+ </ol>
+ <h2> Formatting Tags</h2>
+ <ol>
+ <li>FONT
+ <ul type=square>
+ <li>FACE
+ <li>COLOR<LI>SIZE
+ </ul>
+ <li>HR
+ <ul type=disc>
+ <li>COLOR<li>SIZE
+ <li>WIDTH<li>NOSHADE
+ </ul>
+ <li>P
+ <ul>
+ <li>ALIGN
+ </UL>
+ <li> H1 to H6
+ <ul>
+ <li>ALIGN
+ </ol>
+ </body>
+</HTML>
