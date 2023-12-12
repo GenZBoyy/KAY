@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>INDIAN TIGER</title>
+    <style type="text/css">
+        h1.s{
+            text-align: center;
+            color: maroon;
+        }
+        table.x{
+            border-style: solid;
+            border-width: 2px;
+            border-color: blue;
+        }
+        td{
+            border-style: solid;
+            border-width: 2px;
+            border-color: blue;
+        }
+        </style>
+</head>
+<body link="brown" alink="yellow" vlink="red">
+    <h1 class="s">INDIAN TIGER</h1>
+    <P>"Do not cut down forest with its tigers and do not banish the tigers from the forest.The tiger perishes without the forest,and the
+        forest perishes without its tigers.Therefore the tiger should stand guard over the forest and the forest should protect all its
+        tigers."</P>
+        <img src="tiger.jpg" height="150px" width="300px" align="right">
+        <p>It is now found in some parts of:</p>
+        <ul class="list">
+            <li><a href="one.html">India</a>
+            <li><a href="two.html">South-West Asia</a>
+            <li><a href="three.html">Iran</a>
+            <li><a href="four.html">Manchuria</a>
+        </ul>
+    <table class="x" align="center">
+        <caption align="center">
+        <font color="blue">Subspecies of Tiger</font> 
+            <tr>
+                <td>1</td>
+                <td>Bengal tiger</td>
+            </tr>
+
+            <tr>
+                <td>2</td>
+                <td>Indo-Chinese Tiger</td>
+            </tr>
+
+            <tr>
+                <td>3</td>
+                <td>Japanese Tiger</td>
+            </tr>
+
+            <tr>
+                <td>4</td>
+                <td>Caspian Tiger</td>
+            </tr>
+
+            <tr>
+                <td>5</td>
+                <td>Siberian Tiger</td>
+            </tr>
+    </table>
+    <p>For further enquiries and reservation <a href="abc@gmail.com">Contact Us</a></p>
+    </body>
+</html>
